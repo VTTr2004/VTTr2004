@@ -27,26 +27,14 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/VTTr2004/chatbot_internal">
-    <img
-      src="https://img.shields.io/badge/Chatbot_Internal-0D47A1?style=for-the-badge&logo=github&logoColor=white"
-      alt="Chatbot Internal"
-    />
-  </a>
-  <a href="https://github.com/VTTr2004/system-recommendation">
-    <img
-      src="https://img.shields.io/badge/Recommendation_System-1565C0?style=for-the-badge&logo=github&logoColor=white"
-      alt="Recommendation System"
-    />
-  </a>
-  <a href="https://github.com/VTTr2004/Final-Thesis">
-    <img
-      src="https://img.shields.io/badge/Final_Thesis-1976D2?style=for-the-badge&logo=github&logoColor=white"
-      alt="Final Thesis"
-    />
-  </a>
-</p>
+- 💬 [**Chatbot Internal**](https://github.com/VTTr2004/chatbot_internal)  
+  Internal AI chatbot and intelligent information retrieval.
+
+- ✨ [**Recommendation System**](https://github.com/VTTr2004/system-recommendation)  
+  Personalized travel recommendation and itinerary planning.
+
+- 🎓 [**Final Thesis**](https://github.com/VTTr2004/Final-Thesis)  
+  My graduation thesis in Data Science and applied AI.
 
 ---
 
